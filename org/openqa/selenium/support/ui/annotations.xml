@@ -1,0 +1,5 @@
+<root>
+    <item name='org.openqa.selenium.support.ui.ExpectedConditions'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
